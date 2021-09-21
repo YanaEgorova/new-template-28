@@ -1,0 +1,13 @@
+.hero__wrapper {
+   background-color: var(--first-brand-color);
+}
+.hero {
+    padding: 20rem 0;
+}
+
+
+@media screen and (min-width: 1024px) {
+    .hero {
+        padding: 40rem 0;
+    }
+}
